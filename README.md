@@ -25,7 +25,6 @@ This project provides a secure microservice using `FastMCP` to analyze Microsoft
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/pradeep895/oletools_MCP_claude.git
-   cd oletools-mcp-server
    ```
 2. **Install Dependencies**:
  ```bash
